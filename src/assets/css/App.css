@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid green;
+  margin: auto;
+  width: 50%;
+}
+.hh {
+  color: red;
+}
